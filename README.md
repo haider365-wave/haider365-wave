@@ -39,36 +39,8 @@ IT Engineering student @ Damascus University.
 
 ---
 
-## 🚀 Projects
 
-### 🧬 [Brain Tumor Classifier](https://github.com/haider365-wave/brain-tumor-classifier)
-
-Logistic regression model trained on GLCM texture features extracted from MRI scans.
-Built two ways — from scratch with NumPy, and with scikit-learn.
-
-> `Python` · `NumPy` · `scikit-learn` · `GLCM` · `Logistic Regression`
-
----
-
-### 🏠 [House Price Prediction](https://github.com/haider365-wave/house-price-prediction)
-
-Linear regression built from scratch on the King County dataset. Achieved R² of 0.707.
-Implemented gradient descent manually before comparing with sklearn.
-
-> `Python` · `NumPy` · `Linear Regression` · `EDA`
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haider365-wave&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haider365-wave&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌱 My Coding Journey
+##  My Coding Journey
 
 I started with Python and supervised learning fundamentals — cost functions, gradient descent, logistic regression, all built by hand. Then came real projects: classifiers, predictors, safety systems, simulations.
 
