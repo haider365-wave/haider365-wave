@@ -13,7 +13,7 @@ IT Engineering student @ Damascus University.
 ## 🧠 About Me
 
 - 🎓 4th-year IT Engineering student at **Damascus University**
-- 🤖 Obsessed with **Machine Learning**, **Computer Vision**, and the dream of **Physical AI**
+- 🤖 Obsessed with **Machine Learning** and **Computer Vision**
 - 🔬 I build models from scratch before using libraries — I want to understand, not just run
 - 🦾 Long-term goal: robots that move like living things
 - 📍 Damascus, Syria → wherever the work takes me
